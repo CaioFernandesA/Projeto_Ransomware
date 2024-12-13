@@ -1,0 +1,6 @@
+1- Abra a pasta no terminal
+2- Utilize o comando "python encrypter.py" para criptografar o arquivo "teste.txt"
+  - Pode testar se criptografou mesmo utilizando o "nano teste.txt.ransomwarelocked"
+3- Utilize o comando "python decrypter.py" para descriptografar o arquivo "teste.txt"
+  - Pode testar se descriptografou mesmo utilizando o "nano teste.txt"
+4- Testado e funcionando.
